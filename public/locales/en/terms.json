@@ -1,0 +1,111 @@
+{
+  "hero": {
+    "title": "Terms of Service",
+    "description": "Please read these terms carefully before booking our photography services.",
+    "lastUpdated": "Last Updated"
+  },
+  "keyPoints": {
+    "booking": {
+      "title": "Booking Required",
+      "description": "All sessions require advance booking and deposit"
+    },
+    "payment": {
+      "title": "Payment Terms",
+      "description": "Deposit due at booking, balance before delivery"
+    },
+    "copyright": {
+      "title": "Image Rights",
+      "description": "Photographer retains copyright, clients receive usage rights"
+    }
+  },
+  "toc": {
+    "title": "Table of Contents",
+    "services": "Services Overview",
+    "booking": "Booking & Reservation",
+    "payment": "Payment Terms",
+    "cancellation": "Cancellation Policy",
+    "copyright": "Copyright & Usage Rights",
+    "liability": "Limitation of Liability",
+    "changes": "Changes to Terms"
+  },
+  "acceptance": {
+    "title": "Acceptance of Terms",
+    "description": "By booking our photography services, you agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use our services."
+  },
+  "sections": {
+    "services": {
+      "title": "Services Overview",
+      "intro": "Studio of Light offers professional photography services including:",
+      "item1": "Wedding photography and videography",
+      "item2": "Portrait photography sessions (individual, family, corporate)",
+      "item3": "Event photography (parties, corporate events, celebrations)",
+      "item4": "Commercial photography (products, real estate, marketing)",
+      "note": "Each service package includes specific deliverables as outlined in your contract. Additional services may be available upon request."
+    },
+    "booking": {
+      "title": "Booking and Reservation",
+      "intro": "To reserve your photography session:",
+      "item1": "Contact us to check availability for your preferred date",
+      "item2": "Sign a service agreement outlining the specific services and deliverables",
+      "item3": "Pay the required deposit (typically 30-50% of total cost)",
+      "item4": "Your date is secured only upon receipt of signed agreement and deposit"
+    },
+    "payment": {
+      "title": "Payment Terms",
+      "intro": "Our payment policy is as follows:",
+      "item1": "Deposit: Required at booking to secure your date",
+      "item2": "Balance: Due before final image delivery (typically 50-70% of total)",
+      "item3": "Accepted methods: Credit card, bank transfer, cash",
+      "item4": "Late payments may delay delivery and incur additional fees",
+      "note": "Prices are subject to change. Your contract price is locked upon deposit payment."
+    },
+    "cancellation": {
+      "title": "Cancellation and Rescheduling Policy",
+      "byClient": {
+        "title": "Cancellation by Client",
+        "item1": "More than 90 days before event: 50% deposit refund",
+        "item2": "30-90 days before event: 25% deposit refund",
+        "item3": "Less than 30 days before event: No refund (deposit forfeited)"
+      },
+      "byPhotographer": {
+        "title": "Cancellation by Photographer",
+        "description": "In the unlikely event we must cancel, we will provide a full refund and assist in finding a replacement photographer if possible. Our liability is limited to amounts paid to us."
+      }
+    },
+    "copyright": {
+      "title": "Copyright and Usage Rights",
+      "intro": "Copyright ownership and usage rights are structured as follows:",
+      "photographer": {
+        "title": "Photographer Rights",
+        "item1": "Photographer retains full copyright ownership of all images",
+        "item2": "We may use images for portfolio, marketing, and promotional purposes",
+        "item3": "We may submit images to publications and photography contests"
+      },
+      "client": {
+        "title": "Client Usage Rights",
+        "item1": "You receive a personal, non-exclusive license to use delivered images",
+        "item2": "Permitted uses: personal social media, prints, personal websites",
+        "item3": "Prohibited uses: commercial use, resale, or redistribution without permission"
+      }
+    },
+    "liability": {
+      "title": "Limitation of Liability",
+      "intro": "Please note the following liability limitations:",
+      "item1": "Equipment failure: We use backup equipment, but cannot guarantee against all failures",
+      "item2": "Missed moments: While we strive for perfection, we cannot guarantee capture of every moment",
+      "item3": "Weather/unforeseen events: We are not liable for delays caused by circumstances beyond our control",
+      "insurance": "We maintain professional liability insurance. Our maximum liability is limited to the amount paid for our services."
+    },
+    "changes": {
+      "title": "Changes to Terms",
+      "description": "We reserve the right to modify these Terms of Service at any time. Changes will be effective immediately upon posting to our website.",
+      "notification": "For active contracts, we will notify clients of significant changes. Continued use of our services after changes constitutes acceptance of the new terms."
+    }
+  },
+  "cta": {
+    "title": "Ready to Book Your Session?",
+    "description": "Contact us to discuss your photography needs and get started.",
+    "contact": "Contact Us",
+    "privacy": "View Privacy Policy"
+  }
+}

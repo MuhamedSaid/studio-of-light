@@ -1,0 +1,99 @@
+{
+  "hero": {
+    "badge": "About Us",
+    "title": "Capturing Life's Most",
+    "subtitle": "Precious Moments",
+    "description": "With over a decade of experience, we specialize in transforming fleeting moments into timeless memories. Our passion for photography and dedication to excellence have made us the trusted choice for hundreds of clients."
+  },
+  "stats": {
+    "experience": "Years of Experience",
+    "years": "",
+    "clients": "Happy Clients",
+    "projects": "Projects Completed",
+    "rating": "Average Rating"
+  },
+  "story": {
+    "badge": "Our Story",
+    "title": "Where Passion Meets Expertise",
+    "imageAlt": "Professional photographer at work",
+    "paragraph1": "Founded in 2013, Studio of Light began with a simple vision: to capture the authentic emotions and genuine moments that make every event unique. What started as a small passion project has grown into a full-service photography studio serving clients across the region.",
+    "paragraph2": "Our journey has been defined by countless beautiful moments, from intimate portrait sessions to grand weddings, corporate events, and commercial projects. Each assignment teaches us something new and strengthens our commitment to excellence.",
+    "paragraph3": "Today, we're proud to have photographed over 1,000 events, built lasting relationships with hundreds of clients, and earned recognition in the industry. But what truly drives us is the joy of seeing our clients' faces light up when they see their photos for the first time.",
+    "cta": "View Our Portfolio"
+  },
+  "values": {
+    "title": "Our Core Values",
+    "description": "The principles that guide every shot we take",
+    "passion": {
+      "title": "Passion for Photography",
+      "description": "Photography isn't just our profession—it's our calling. We pour our hearts into every project."
+    },
+    "creativity": {
+      "title": "Creative Vision",
+      "description": "We bring a unique artistic perspective to every shoot, ensuring your photos stand out."
+    },
+    "precision": {
+      "title": "Technical Precision",
+      "description": "From lighting to composition, we apply professional techniques to deliver flawless results."
+    },
+    "excellence": {
+      "title": "Commitment to Excellence",
+      "description": "We never settle for 'good enough.' Every photo must meet our rigorous quality standards."
+    }
+  },
+  "team": {
+    "title": "Meet Our Creative Team",
+    "description": "The talented individuals behind every stunning photograph",
+    "photographer": {
+      "name": "Thomas Anderson",
+      "role": "Lead Photographer & Founder",
+      "bio": "With 12+ years of experience, Thomas brings exceptional technical skills and artistic vision to every project. His work has been featured in numerous publications."
+    },
+    "assistant1": {
+      "name": "Sarah Mitchell",
+      "role": "Senior Photographer",
+      "bio": "Sarah specializes in portrait and wedding photography. Her warm personality puts clients at ease, capturing their authentic selves."
+    },
+    "assistant2": {
+      "name": "Michael Chen",
+      "role": "Commercial Photographer",
+      "bio": "Michael excels in commercial and event photography. His attention to detail ensures every product and moment is perfectly captured."
+    }
+  },
+  "achievements": {
+    "title": "Awards & Milestones",
+    "description": "Celebrating our journey of excellence",
+    "achievement1": {
+      "title": "Best Wedding Photographer Award",
+      "description": "Recognized by the International Wedding Photography Association for exceptional creativity and technical excellence."
+    },
+    "achievement2": {
+      "title": "Featured in Photography Magazine",
+      "description": "Our work was showcased in Professional Photography Magazine's annual best portfolios edition."
+    },
+    "achievement3": {
+      "title": "500+ Happy Couples",
+      "description": "Reached the milestone of photographing over 500 weddings, each one unique and beautiful."
+    },
+    "achievement4": {
+      "title": "Studio Expansion",
+      "description": "Opened our second studio location to better serve clients across the metropolitan area."
+    }
+  },
+  "whyChoose": {
+    "title": "Why Choose Us",
+    "description": "What sets us apart from other photography studios",
+    "reason1": "Professional-grade equipment including the latest cameras, lenses, and lighting gear",
+    "reason2": "Comprehensive pre-shoot consultations to understand your vision and preferences",
+    "reason3": "Fast turnaround times without compromising on quality",
+    "reason4": "Extensive post-processing and retouching to enhance every image",
+    "reason5": "Flexible packages tailored to your specific needs and budget",
+    "reason6": "100% satisfaction guarantee - we're not happy until you're thrilled"
+  },
+  "cta": {
+    "title": "Ready to Create Something Beautiful?",
+    "description": "Let's discuss your photography needs and bring your vision to life",
+    "contact": "Get in Touch",
+    "portfolio": "View Our Work"
+  }
+}

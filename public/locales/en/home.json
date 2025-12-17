@@ -1,0 +1,92 @@
+{
+  "hero": {
+    "badge": "Professional Photography",
+    "title": "Capturing Life's",
+    "subtitle": "Most Precious Moments",
+    "description": "We specialize in turning your cherished memories into timeless art. From weddings to portraits, our lens tells your unique story with passion and creativity.",
+    "cta": {
+      "portfolio": "View Portfolio",
+      "contact": "Get in Touch"
+    }
+  },
+  "stats": {
+    "experience": "Years Experience",
+    "clients": "Happy Clients",
+    "projects": "Projects Completed",
+    "rating": "Average Rating"
+  },
+  "servicesSection": {
+    "title": "Our Services",
+    "description": "We offer a comprehensive range of photography services tailored to capture your special moments with artistic excellence.",
+    "learnMore": "Learn more",
+    "viewAll": "View All Services"
+  },
+  "services": {
+    "weddings": {
+      "title": "Wedding Photography",
+      "description": "Capture every magical moment of your special day with our expert wedding photography services."
+    },
+    "portraits": {
+      "title": "Portrait Sessions",
+      "description": "Professional portrait photography that brings out your natural beauty and personality."
+    },
+    "events": {
+      "title": "Event Coverage",
+      "description": "From corporate events to private celebrations, we document every important moment."
+    },
+    "commercial": {
+      "title": "Commercial Photography",
+      "description": "High-quality product and brand photography to elevate your business presence."
+    }
+  },
+  "whyChooseSection": {
+    "title": "Why Choose Us",
+    "description": "With over a decade of experience and hundreds of satisfied clients, we bring expertise, creativity, and dedication to every project.",
+    "cta": "Learn More About Us"
+  },
+  "whyChoose": {
+    "professional": {
+      "title": "Professional Equipment",
+      "description": "We use state-of-the-art cameras and lighting equipment to ensure the highest quality images."
+    },
+    "creative": {
+      "title": "Creative Vision",
+      "description": "Our artistic approach captures unique perspectives and tells compelling visual stories."
+    },
+    "reliable": {
+      "title": "Reliable & Punctual",
+      "description": "We respect your time and guarantee timely delivery of beautifully edited photos."
+    },
+    "passionate": {
+      "title": "Passionate Team",
+      "description": "Our love for photography drives us to exceed expectations and create memorable experiences."
+    }
+  },
+  "testimonialsSection": {
+    "title": "Client Testimonials",
+    "description": "Don't just take our word for it—hear what our clients have to say about their experience."
+  },
+  "testimonials": {
+    "client1": {
+      "name": "Sarah Johnson",
+      "role": "Wedding Client",
+      "content": "They captured our wedding day perfectly! Every photo tells a beautiful story and the attention to detail was incredible. Highly recommend!"
+    },
+    "client2": {
+      "name": "Michael Chen",
+      "role": "Corporate Client",
+      "content": "Professional, creative, and easy to work with. The product photos exceeded our expectations and really elevated our brand image."
+    },
+    "client3": {
+      "name": "Emily Rodriguez",
+      "role": "Family Portrait",
+      "content": "The family portrait session was so much fun! They made everyone feel comfortable and the results were absolutely stunning."
+    }
+  },
+  "ctaSection": {
+    "title": "Ready to Capture Your Story?",
+    "description": "Let's create something beautiful together. Book your session today and preserve your precious memories forever.",
+    "cta": "Book a Session",
+    "portfolio": "View Portfolio"
+  }
+}

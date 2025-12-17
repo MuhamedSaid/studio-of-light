@@ -1,0 +1,39 @@
+{
+  "hero": {
+    "title": "Our Portfolio",
+    "description": "Explore our collection of stunning photography work across weddings, portraits, events, and commercial projects. Each image tells a unique story."
+  },
+  "categories": {
+    "all": "All Work",
+    "weddings": "Weddings",
+    "portraits": "Portraits",
+    "events": "Events",
+    "commercial": "Commercial"
+  },
+  "showing": "Showing",
+  "images": "images",
+  "noImages": "No images found in this category.",
+  "keyboardHints": "Use ← → to navigate • ESC to close",
+  "images": {
+    "wedding1": "Elegant Wedding Ceremony",
+    "wedding2": "Romantic Couple Portrait",
+    "wedding3": "Wedding Reception Details",
+    "wedding4": "Bride & Groom First Dance",
+    "wedding5": "Outdoor Wedding Celebration",
+    "portrait1": "Professional Headshot",
+    "portrait2": "Creative Portrait Session",
+    "portrait3": "Natural Light Portrait",
+    "portrait4": "Studio Portrait Photography",
+    "portrait5": "Lifestyle Portrait",
+    "event1": "Corporate Event Coverage",
+    "event2": "Party Celebration",
+    "event3": "Conference Photography",
+    "event4": "Gala Evening Event",
+    "event5": "Live Performance Capture",
+    "commercial1": "Product Photography",
+    "commercial2": "E-commerce Product Shoot",
+    "commercial3": "Tech Product Photography",
+    "commercial4": "Fashion Product Shoot",
+    "commercial5": "Commercial Interior"
+  }
+}

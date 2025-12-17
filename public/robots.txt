@@ -1,0 +1,11 @@
+# robots.txt for Studio of Light Portfolio Demo
+# This is a portfolio/demo project - allowing indexing
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://studio-of-light-demo.vercel.app/sitemap.xml
+
+# Optimize crawl budget
+Crawl-delay: 1

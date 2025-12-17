@@ -1,0 +1,124 @@
+{
+  "hero": {
+    "title": "Our Photography Services",
+    "description": "Professional photography services tailored to capture your most precious moments. From weddings to commercial projects, we deliver exceptional quality and unforgettable experiences.",
+    "cta": {
+      "whatsapp": "Contact on WhatsApp",
+      "call": "Call Us Now"
+    }
+  },
+  "services": {
+    "weddings": {
+      "title": "Wedding Photography",
+      "description": "Capture every magical moment of your special day with our professional wedding photography services. We document your love story with artistry and emotion.",
+      "features": [
+        "Full day coverage with multiple photographers",
+        "Engagement & pre-wedding photo sessions",
+        "High-resolution edited photos delivered digitally",
+        "Custom wedding album design and printing",
+        "Drone photography for stunning aerial shots"
+      ]
+    },
+    "portraits": {
+      "title": "Portrait Photography",
+      "description": "Professional portrait sessions that capture your personality and natural beauty. Perfect for individuals, families, professionals, and special occasions.",
+      "features": [
+        "Individual, couple, and family portraits",
+        "Professional headshots for business profiles",
+        "Maternity and newborn photography",
+        "Indoor studio or outdoor location shoots",
+        "Wardrobe and styling consultation included"
+      ]
+    },
+    "events": {
+      "title": "Event Photography",
+      "description": "Comprehensive event coverage that preserves every important moment. From corporate events to private celebrations, we capture the essence of your occasion.",
+      "features": [
+        "Corporate events, conferences, and seminars",
+        "Birthday parties and milestone celebrations",
+        "Graduations and achievement ceremonies",
+        "Live performance and concert photography",
+        "Same-day photo delivery for urgent needs"
+      ]
+    },
+    "commercial": {
+      "title": "Commercial Photography",
+      "description": "High-quality commercial photography to elevate your brand and products. Professional images that drive engagement and increase sales.",
+      "features": [
+        "Product photography for e-commerce",
+        "Brand and lifestyle photography",
+        "Real estate and architectural photography",
+        "Food and beverage photography",
+        "Professional retouching and editing"
+      ]
+    }
+  },
+  "process": {
+    "title": "How It Works",
+    "description": "Simple, transparent process from first contact to final delivery",
+    "step1": {
+      "title": "Contact Us",
+      "description": "Reach out via WhatsApp or phone to discuss your photography needs and vision"
+    },
+    "step2": {
+      "title": "Plan Together",
+      "description": "We'll create a customized plan, timeline, and discuss all the details of your session"
+    },
+    "step3": {
+      "title": "Photo Session",
+      "description": "Professional photography session at your chosen location with expert guidance"
+    },
+    "step4": {
+      "title": "Receive Photos",
+      "description": "Get your beautifully edited high-resolution photos delivered digitally"
+    }
+  },
+  "benefits": {
+    "title": "Why Choose Us",
+    "description": "Professional service you can trust",
+    "professional": {
+      "title": "Professional Quality",
+      "description": "High-end equipment and expert techniques ensure stunning results"
+    },
+    "flexible": {
+      "title": "Flexible Packages",
+      "description": "Customized services tailored to your specific needs and budget"
+    },
+    "timely": {
+      "title": "Timely Delivery",
+      "description": "Fast turnaround times without compromising on quality"
+    },
+    "satisfaction": {
+      "title": "100% Satisfaction",
+      "description": "We're not happy until you're absolutely thrilled with your photos"
+    }
+  },
+  "location": {
+    "title": "Service Areas",
+    "description": "We provide photography services throughout the region and are available for destination projects.",
+    "areas": [
+      "All major cities and surrounding areas",
+      "Destination weddings and events",
+      "Travel photography packages available"
+    ]
+  },
+  "availability": {
+    "title": "Availability",
+    "description": "We're here when you need us. Contact us to check availability for your date.",
+    "weekdays": "Weekdays",
+    "weekdaysTime": "9:00 AM - 6:00 PM",
+    "weekends": "Weekends",
+    "weekendsTime": "By Appointment"
+  },
+  "cta": {
+    "title": "Ready to Book Your Session?",
+    "description": "Contact us today for a custom quote and let's create something beautiful together.",
+    "whatsapp": "Message on WhatsApp",
+    "call": "Call Now",
+    "portfolio": "View Our Work"
+  },
+  "whatsapp": {
+    "generalMessage": "Hi! I'm interested in your photography services. Can you provide more details and pricing?",
+    "message": "Hi! I'm interested in your {{service}} services. Can you provide more details and pricing?"
+  }
+}

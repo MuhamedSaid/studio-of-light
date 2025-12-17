@@ -1,0 +1,52 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "portfolio": "Portfolio",
+    "services": "Services",
+    "contact": "Contact",
+    "logo": "Studio of Light"
+  },
+  "theme": {
+    "toggleLight": "Switch to light mode",
+    "toggleDark": "Switch to dark mode"
+  },
+  "accessibility": {
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "hero": {
+    "title": "Capturing Your Perfect Moments",
+    "subtitle": "Professional wedding and portrait photography",
+    "cta": "View Portfolio"
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send Message"
+  },
+  "footer": {
+    "tagline": "Capturing your most precious moments with artistry and passion.",
+    "quickLinks": "Quick Links",
+    "services": "Services",
+    "followUs": "Follow Us",
+    "contact": "Contact",
+    "email": "Email",
+    "phone": "Phone",
+    "address": "Address",
+    "addressValue": "123 Photography Lane, Studio City, CA 90210",
+    "emailValue": "hello@thomasphotography.com",
+    "phoneValue": "+1 (555) 123-4567",
+    "copyright": "© {{year}} Studio of Light. All rights reserved.",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "servicesOffered": {
+      "weddings": "Weddings",
+      "portraits": "Portrait Sessions",
+      "events": "Event Photography",
+      "commercial": "Commercial Work"
+    }
+  }
+}

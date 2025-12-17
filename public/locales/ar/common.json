@@ -1,0 +1,52 @@
+{
+  "nav": {
+    "home": "الرئيسية",
+    "about": "من نحن",
+    "portfolio": "المعرض",
+    "services": "الخدمات",
+    "contact": "تواصل معنا",
+    "logo": "استوديو النور"
+  },
+  "theme": {
+    "toggleLight": "التبديل إلى الوضع الفاتح",
+    "toggleDark": "التبديل إلى الوضع الداكن"
+  },
+  "accessibility": {
+    "openMenu": "فتح القائمة",
+    "closeMenu": "إغلاق القائمة"
+  },
+  "hero": {
+    "title": "نحن نلتقط لحظاتكم المثالية",
+    "subtitle": "تصوير احترافي للأفراح والبورتريه",
+    "cta": "عرض المعرض"
+  },
+  "contact": {
+    "title": "تواصل معنا",
+    "name": "الاسم",
+    "email": "البريد الإلكتروني",
+    "message": "الرسالة",
+    "send": "إرسال الرسالة"
+  },
+  "footer": {
+    "tagline": "نلتقط أثمن لحظاتك بفنية وشغف.",
+    "quickLinks": "روابط سريعة",
+    "services": "الخدمات",
+    "followUs": "تابعنا",
+    "contact": "اتصل بنا",
+    "email": "البريد الإلكتروني",
+    "phone": "الهاتف",
+    "address": "العنوان",
+    "addressValue": "123 شارع التصوير، مدينة الاستوديو، كاليفورنيا 90210",
+    "emailValue": "hello@thomasphotography.com",
+    "phoneValue": "+1 (555) 123-4567",
+    "copyright": "© {{year}} استوديو النور. جميع الحقوق محفوظة.",
+    "privacyPolicy": "سياسة الخصوصية",
+    "termsOfService": "شروط الخدمة",
+    "servicesOffered": {
+      "weddings": "حفلات الزفاف",
+      "portraits": "جلسات تصوير شخصية",
+      "events": "تصوير الفعاليات",
+      "commercial": "الأعمال التجارية"
+    }
+  }
+}

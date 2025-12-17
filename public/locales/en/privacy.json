@@ -1,0 +1,100 @@
+{
+  "hero": {
+    "title": "Privacy Policy",
+    "description": "Your privacy is important to us. This policy explains how we collect, use, and protect your personal information.",
+    "lastUpdated": "Last Updated"
+  },
+  "highlights": {
+    "secure": {
+      "title": "Secure & Protected",
+      "description": "Your data is encrypted and stored securely"
+    },
+    "transparent": {
+      "title": "Fully Transparent",
+      "description": "Clear information about what we collect and why"
+    },
+    "rights": {
+      "title": "Your Rights Matter",
+      "description": "You maintain control over your personal data"
+    }
+  },
+  "toc": {
+    "title": "Table of Contents",
+    "information": "Information We Collect",
+    "usage": "How We Use Information",
+    "cookies": "Cookies & Tracking",
+    "thirdparty": "Third-Party Services",
+    "security": "Data Security",
+    "rights": "Your Privacy Rights",
+    "contact": "Contact Us"
+  },
+  "sections": {
+    "information": {
+      "title": "Information We Collect",
+      "intro": "We collect information to provide better services to our clients. The types of information we collect include:",
+      "personal": {
+        "title": "Personal Information You Provide",
+        "item1": "Name, email address, phone number when you fill out contact forms",
+        "item2": "Event details, preferences, and special requirements",
+        "item3": "Payment information for booking services",
+        "item4": "Photos and media during photography sessions"
+      },
+      "automatic": {
+        "title": "Automatically Collected Information",
+        "item1": "Device information, browser type, and IP address",
+        "item2": "Pages visited and time spent on our website",
+        "item3": "Geographic location based on IP address"
+      }
+    },
+    "usage": {
+      "title": "How We Use Your Information",
+      "intro": "We use the collected information for the following purposes:",
+      "item1": "To communicate with you about your photography needs and bookings",
+      "item2": "To provide and deliver our photography services",
+      "item3": "To process payments and manage your accounts",
+      "item4": "To improve our website, services, and customer experience",
+      "item5": "To send promotional materials (only with your consent)"
+    },
+    "cookies": {
+      "title": "Cookies and Tracking Technologies",
+      "intro": "We use cookies and similar technologies to enhance your browsing experience. Cookies are small text files stored on your device that help us remember your preferences and understand how you use our website.",
+      "types": "We use essential cookies for site functionality, analytical cookies to understand user behavior, and preference cookies to remember your settings (like dark mode or language preference).",
+      "control": "You can control cookie settings through your browser preferences, though  disabling certain cookies may affect site functionality."
+    },
+    "thirdparty": {
+      "title": "Third-Party Services",
+      "intro": "We may share information with trusted third-party service providers who assist us in:",
+      "item1": "Email delivery and communication services",
+      "item2": "Website analytics and performance monitoring",
+      "item3": "Payment processing and secure transactions",
+      "note": "These providers are contractually obligated to protect your information and use it only for the specific purposes we've authorized."
+    },
+    "security": {
+      "title": "Data Security",
+      "intro": "We implement industry-standard security measures to protect your personal information from unauthorized access, disclosure, alteration, or destruction.",
+      "measures": "This includes SSL encryption for data transmission, secure server storage, regular security audits, and restricted access to personal information. However, no method of transmission over the Internet is 100% secure, and we cannot guarantee absolute security."
+    },
+    "rights": {
+      "title": "Your Privacy Rights",
+      "intro": "You have the following rights regarding your personal data:",
+      "item1": "Access: Request a copy of the personal information we hold about you",
+      "item2": "Correction: Request correction of inaccurate or incomplete information",
+      "item3": "Deletion: Request deletion of your personal data (subject to legal requirements)",
+      "item4": "Opt-out: Unsubscribe from marketing communications at any time",
+      "item5": "Portability: Request your data in a structured, machine-readable format"
+    },
+    "contact": {
+      "title": "Contact Us About Privacy",
+      "intro": "If you have questions about this Privacy Policy or how we handle your personal information, please contact us:",
+      "companyName": "Studio of Light",
+      "email": "Email",
+      "phone": "Phone"
+    }
+  },
+  "cta": {
+    "title": "Questions About Your Privacy?",
+    "description": "We're here to help. Contact us if you have any concerns about how we handle your data.",
+    "contact": "Contact Us",
+    "terms": "View Terms of Service"
+  }
+}
