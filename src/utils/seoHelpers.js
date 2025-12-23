@@ -8,21 +8,21 @@ export const generateSEOData = (page, customData = {}) => {
       keywords: siteConfig.seo.defaultKeywords,
     },
     about: {
-      title: 'About Thomas - Professional Photographer',
+      title: 'About Studio of Light - Professional Photographer',
       description:
-        'Learn about Thomas, an experienced wedding and portrait photographer with 10+ years capturing special moments.',
+        'Learn about Studio of Light, an experienced wedding and portrait photographer with 10+ years capturing special moments.',
       keywords:
         'photographer biography, wedding photographer experience, portrait photographer',
     },
     portfolio: {
       title: 'Photography Portfolio - Wedding & Portrait Gallery',
       description:
-        "Browse Thomas's portfolio featuring stunning wedding photography, party events, and portrait sessions.",
+        "Browse Studio of Light's portfolio featuring stunning wedding photography, party events, and portrait sessions.",
       keywords:
         'wedding photography portfolio, party photography gallery, portrait photography examples',
     },
     contact: {
-      title: 'Contact Thomas Photography - Book Your Session',
+      title: 'Contact Studio of Light - Book Your Session',
       description:
         'Get in touch to book your wedding, party, or portrait photography session. Professional photography services.',
       keywords:

@@ -9,7 +9,7 @@
 
 **A production-ready, bilingual photography portfolio built with modern web technologies**
 
-[Live Demo](https://studio-of-light-demo.vercel.app) • [Report Bug](https://github.com/yourusername/studio-of-light/issues) • [Request Feature](https://github.com/yourusername/studio-of-light/issues)
+[Live Demo](https://studio-of-light-portfolio.vercel.app) • [Report Bug](https://github.com/MuhamedSaid/studio-of-light/issues) • [Request Feature](https://github.com/MuhamedSaid/studio-of-light/issues)
 
 </div>
 

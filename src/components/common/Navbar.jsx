@@ -7,12 +7,17 @@ import { Menu, X } from 'lucide-react';
 import { useTranslation } from 'react-i18next';
 import ThemeToggle from './ThemeToggle';
 import LanguageSwitcher from './LanguageSwitcher';
+import logoEn from '../../assets/icons/logo-en.png';
+import logoAr from '../../assets/icons/logo-ar.png';
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
   const location = useLocation();
-  const { t, ready } = useTranslation('common'); // Specify namespace and check ready state
+  const { t, i18n } = useTranslation('common');
+
+  // Get current language logo
+  const currentLogo = i18n.language === 'ar' ? logoAr : logoEn;
 
   // Navigation items - now updates when translations change
   const navigation = [
@@ -51,21 +56,6 @@ const Navbar = () => {
     };
   }, [isOpen]);
 
-  // Show loading state if translations aren't ready
-  if (!ready) {
-    return (
-      <nav className="fixed top-0 left-0 right-0 z-50 bg-white dark:bg-gray-900">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="flex justify-between items-center h-16">
-            <div className="text-2xl font-bold text-gray-900 dark:text-white">
-              Loading...
-            </div>
-          </div>
-        </div>
-      </nav>
-    );
-  }
-
   return (
     <>
       <nav
@@ -78,9 +68,17 @@ const Navbar = () => {
             {/* Logo */}
             <Link
               to="/"
-              className="text-2xl font-bold text-gray-900 dark:text-white hover:text-gold-600 dark:hover:text-gold-400 transition-colors duration-200"
+              className="flex items-center hover:opacity-80 transition-opacity duration-200"
             >
-              {t('nav.logo')}
+              <motion.img
+                key={i18n.language}
+                src={currentLogo}
+                alt="Studio of Light"
+                className="h-14 md:h-16 w-auto"
+                initial={{ opacity: 0 }}
+                animate={{ opacity: 1 }}
+                transition={{ duration: 0.3 }}
+              />
             </Link>
 
             {/* Desktop Navigation */}

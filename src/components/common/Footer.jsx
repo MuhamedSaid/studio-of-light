@@ -12,10 +12,15 @@ import {
   Linkedin,
 } from 'lucide-react';
 import { motion } from 'framer-motion';
+import logoEn from '../../assets/icons/logo-en.png';
+import logoAr from '../../assets/icons/logo-ar.png';
 
 export default function Footer() {
-  const { t } = useTranslation('common');
+  const { t, i18n } = useTranslation('common');
   const currentYear = new Date().getFullYear();
+
+  // Get current language logo
+  const currentLogo = i18n.language === 'ar' ? logoAr : logoEn;
 
   // Quick links for navigation
   const quickLinks = [
@@ -98,9 +103,17 @@ export default function Footer() {
           <div className="lg:col-span-1">
             <Link
               to="/"
-              className="inline-block text-2xl font-bold text-gray-900 dark:text-white hover:text-gold-600 dark:hover:text-gold-400 transition-colors duration-200"
+              className="inline-block hover:opacity-80 transition-opacity duration-200"
             >
-              {t('nav.logo')}
+              <motion.img
+                key={i18n.language}
+                src={currentLogo}
+                alt="Studio of Light"
+                className="h-20 w-auto"
+                initial={{ opacity: 0 }}
+                animate={{ opacity: 1 }}
+                transition={{ duration: 0.3 }}
+              />
             </Link>
             <p className="mt-4 text-sm text-gray-600 dark:text-gray-400 leading-relaxed">
               {t('footer.tagline')}

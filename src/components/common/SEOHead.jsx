@@ -8,7 +8,7 @@ const SEOHead = ({
   url,
   type = 'website',
 }) => {
-  const siteTitle = 'Thomas Photography';
+  const siteTitle = 'Studio of Light';
   const fullTitle = title ? `${title} | ${siteTitle}` : siteTitle;
 
   return (
@@ -33,7 +33,7 @@ const SEOHead = ({
 
       {/* Additional SEO tags */}
       <meta name="robots" content="index, follow" />
-      <meta name="author" content="Thomas Photography" />
+      <meta name="author" content="Studio of Light" />
       <link rel="canonical" href={url} />
     </Helmet>
   );

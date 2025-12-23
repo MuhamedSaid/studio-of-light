@@ -280,7 +280,7 @@ export default function Privacy() {
                     <p className="font-medium text-gray-900 dark:text-white mb-2">
                       {t('sections.contact.companyName')}
                     </p>
-                    <p>{t('sections.contact.email')}: hello@thomasphotography.com</p>
+                    <p>{t('sections.contact.email')}: hello@studiooflight.com</p>
                     <p>{t('sections.contact.phone')}: +1 (555) 123-4567</p>
                   </div>
                 </div>

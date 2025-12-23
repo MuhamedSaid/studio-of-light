@@ -35,7 +35,7 @@ export default function Contact() {
   // Contact information from config
   const PHONE_NUMBER = '+201234567890';
   const WHATSAPP_NUMBER = '201234567890';
-  const EMAIL = 'hello@thomasphotography.com';
+  const EMAIL = 'hello@studiooflight.com';
 
   // Animation variants
   const fadeInUp = {
