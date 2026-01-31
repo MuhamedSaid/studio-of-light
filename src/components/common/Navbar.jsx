@@ -154,11 +154,13 @@ const Navbar = () => {
 
             {/* Mobile Menu */}
             <motion.div
-              initial={{ x: '100%' }}
+              initial={{ x: i18n.dir() === 'rtl' ? '-100%' : '100%' }}
               animate={{ x: 0 }}
-              exit={{ x: '100%' }}
+              exit={{ x: i18n.dir() === 'rtl' ? '-100%' : '100%' }}
               transition={{ type: 'spring', damping: 25, stiffness: 200 }}
-              className="fixed top-16 right-0 bottom-0 w-64 bg-white dark:bg-gray-900 shadow-xl z-50 md:hidden overflow-y-auto"
+              className={`fixed top-16 bottom-0 w-64 bg-white dark:bg-gray-900 shadow-xl z-50 md:hidden overflow-y-auto ${
+                i18n.dir() === 'rtl' ? 'left-0' : 'right-0'
+              }`}
             >
               <div className="flex flex-col p-4 space-y-2">
                 {navigation.map((item) => (

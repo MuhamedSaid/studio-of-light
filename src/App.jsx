@@ -29,7 +29,7 @@ function App() {
     <HelmetProvider>
       <Router>
         <ThemeProvider>
-          <div className="min-h-screen flex flex-col">
+          <div className="min-h-screen flex flex-col overflow-x-hidden">
             <ScrollToTop />
             <Navbar />
             <main className="flex-grow">
