@@ -11,7 +11,7 @@
     "commercial": "Commercial"
   },
   "showing": "Showing",
-  "images": "images",
+  "imagesCount": "images",
   "noImages": "No images found in this category.",
   "keyboardHints": "Use ← → to navigate • ESC to close",
   "images": {

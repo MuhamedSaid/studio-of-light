@@ -11,7 +11,7 @@
     "commercial": "التجاري"
   },
   "showing": "عرض",
-  "images": "صورة",
+  "imagesCount": "صورة",
   "noImages": "لم يتم العثور على صور في هذه الفئة.",
   "keyboardHints": "استخدم ← → للتنقل • ESC للإغلاق",
   "images": {

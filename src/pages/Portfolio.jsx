@@ -367,7 +367,7 @@ export default function Portfolio() {
               <span className="font-semibold text-gold-600 dark:text-gold-400">
                 {filteredImages.length}
               </span>{' '}
-              {t('images')}
+              {t('imagesCount')}
             </p>
           </div>
         </div>
@@ -524,8 +524,8 @@ export default function Portfolio() {
               </div>
             </motion.div>
 
-            {/* Keyboard Hints */}
-            <div className="absolute bottom-4 left-1/2 transform -translate-x-1/2 text-gray-400 text-sm">
+            {/* Keyboard Hints - Hidden on mobile */}
+            <div className="hidden md:block absolute bottom-4 left-1/2 transform -translate-x-1/2 text-gray-400 text-sm">
               {t('keyboardHints')}
             </div>
           </motion.div>
