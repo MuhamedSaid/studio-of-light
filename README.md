@@ -2,7 +2,7 @@
 
 > A production-ready, bilingual (Arabic/English) photography portfolio website with full RTL support, dark mode, and smooth animations.
 
-í´— **Live:** [studio-of-light-portfolio.vercel.app](https://studio-of-light-portfolio.vercel.app/)
+ğŸ”— **Live:** [studio-of-light-portfolio.vercel.app](https://studio-of-light-portfolio.vercel.app/)
 
 ![Language Switch Demo](./screenshots/sol-language-switch.gif)
 
@@ -10,24 +10,24 @@
 
 ## âœ¨ Features
 
-- í¼ **Full Bilingual Support** â€” English/Arabic with 4,000+ translation keys
-- í´„ **Automatic RTL Layouts** â€” Entire UI flips for Arabic language
-- í¼™ **Dark Mode** â€” With smooth transitions and system preference detection
-- í³¸ **Portfolio Gallery** â€” Lightbox viewer with keyboard navigation and category filtering
-- í³± **Fully Responsive** â€” 7 pages optimized for all devices
-- í¾¨ **Custom Design System** â€” 10-shade gold color palette for light/dark themes
-- í³§ **Contact Form** â€” With validation and WhatsApp integration
-- í´ **SEO Optimized** â€” Dynamic meta tags, XML sitemap, robots.txt
+- ğŸŒ **Full Bilingual Support** â€” English/Arabic with 4,000+ translation keys
+- ğŸ”„ **Automatic RTL Layouts** â€” Entire UI flips for Arabic language
+- ğŸŒ™ **Dark Mode** â€” With smooth transitions and system preference detection
+- ğŸ“¸ **Portfolio Gallery** â€” Lightbox viewer with keyboard navigation and category filtering
+- ğŸ“± **Fully Responsive** â€” 7 pages optimized for all devices
+- ğŸ¨ **Custom Design System** â€” 10-shade gold color palette for light/dark themes
+- ğŸ“§ **Contact Form** â€” With validation and WhatsApp integration
+- ğŸ” **SEO Optimized** â€” Dynamic meta tags, XML sitemap, robots.txt
 
 ---
 
-## í» ï¸ Tech Stack
+## ğŸ› ï¸ Tech Stack
 
 | Technology | Purpose |
 |-----------|---------|
 | React 19 | UI framework |
 | Vite | Build tool |
-| Tailwind CSS | Styling & dark mode |
+| Tailwind CSS | Styling and dark mode |
 | i18next | Internationalization |
 | Framer Motion | Animations |
 | React Router v7 | Routing |
@@ -37,7 +37,7 @@
 
 ---
 
-## í³¸ Screenshots
+## ğŸ“¸ Screenshots
 
 ### English (LTR)
 ![Home English](./screenshots/sol-home-english.png)
@@ -59,7 +59,7 @@
 
 ---
 
-## í¿—ï¸ Architecture
+## ğŸ—ï¸ Architecture
 
 ```
 src/
@@ -69,13 +69,13 @@ src/
 â”‚   â”œâ”€â”€ en/             # English translations (8 namespace files)
 â”‚   â””â”€â”€ ar/             # Arabic translations (8 namespace files)
 â”œâ”€â”€ hooks/              # Custom React hooks
-â”œâ”€â”€ styles/             # Global styles & Tailwind config
+â”œâ”€â”€ styles/             # Global styles and Tailwind config
 â””â”€â”€ utils/              # Helpers and utilities
 ```
 
 ---
 
-## íº€ Run Locally
+## ğŸš€ Run Locally
 
 ```bash
 git clone https://github.com/MuhamedSaid/studio-of-light.git
@@ -86,7 +86,7 @@ npm run dev
 
 ---
 
-## í³« Contact
+## ğŸ“« Contact
 
 - **Portfolio:** [muhammedsaid.vercel.app](https://muhammedsaid.vercel.app/)
 - **LinkedIn:** [muhammed-said](https://www.linkedin.com/in/muhammed-said-323982213/)
